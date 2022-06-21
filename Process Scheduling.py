@@ -1,3 +1,6 @@
+'''
+FCFS, RR, SPN, SRTN, HRRN
+'''
 import heapq
 
 
